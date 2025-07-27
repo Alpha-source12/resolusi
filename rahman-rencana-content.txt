@@ -1,3 +1,4 @@
 RENCANA CONTENT RAHMAN 
 belajar node js
+  # sampai bisa
 belajar membuat aplikasi rekam medis elektronik
