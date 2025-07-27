@@ -1,5 +1,8 @@
 RENCANA CONTENT RAHMAN 
 belajar node js
   # sampai bisa
+belajar laravel
 belajar membuat aplikasi rekam medis elektronik
 bejalar bahasa pemograman yang lain
+  #belajar python
+  #belajar sql
